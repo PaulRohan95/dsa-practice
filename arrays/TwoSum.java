@@ -1,3 +1,19 @@
+/*
+Problem: Two Sum
+Pattern: Hashing
+Input Structure: Array
+
+Brute Force
+Time: O(n²)
+Space: O(1)
+
+HashMap Approach
+Time: O(n)
+Space: O(n)
+*/
+
+
+
 // class Solution {
 //     public int[] twoSum(int[] nums, int target) {
 //         for (int i = 0; i < nums.length; i++) {
