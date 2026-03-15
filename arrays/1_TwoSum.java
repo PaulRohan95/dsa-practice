@@ -29,7 +29,7 @@ Space: O(n)
 
 import java.util.HashMap;
 
-public class TwoSum {
+class Solution {
     HashMap<Integer, Integer> map = new HashMap<>(); //initiating a new hashmap to store the elements and their indices
     public int[] twoSum(int[] nums, int target) {
 		
